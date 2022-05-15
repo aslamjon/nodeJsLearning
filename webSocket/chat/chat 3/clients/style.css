@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.dispalyMessage {
+    border: 1px solid grey;
+    min-height: 100px;
+    width: 300px;
+}
